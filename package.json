@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bolognatechscene/bolognatechscene.github.io/issues"
   },
-  "homepage": "https://github.com/bolognatechscene/bolognatechscene.github.io#readme"
+  "homepage": "https://github.com/bolognatechscene/bolognatechscene.github.io#readme",
+  "dependencies": {
+    "Demo": "git+https://github.com/callmenick/Slack-CSS-Logo.git"
+  }
 }
