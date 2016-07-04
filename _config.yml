@@ -1,0 +1,17 @@
+url: https://bolognatechscene.github.io/
+baseurl:
+timezone: Europe/Rome
+
+# Site settings
+title: Bologna Tech Scene
+email: bolognatechscene@gmail.com
+description: "Homepage Bologna Tech Scene racchiude gli eventi di vari gruppi di smanettoni di Bologna e dintorni."
+
+social:
+  - title: slack
+    url: https://bolognatechscene.herokuapp.com/
+  - title: github
+    url: http://github.com/bolognatechscene
+
+# Build settings
+permalink: pretty
