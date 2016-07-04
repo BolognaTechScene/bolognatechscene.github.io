@@ -12,6 +12,8 @@ social:
     url: https://bolognatechscene.herokuapp.com/
   - title: github
     url: http://github.com/bolognatechscene
+  - title: facebook
+    url: https://www.facebook.com/BolognaTechScene
 
 # Build settings
 permalink: pretty
