@@ -1,0 +1,23 @@
+{
+  "name": "bolognatechscene.github.io",
+  "version": "1.0.0",
+  "description": "Pagine servite da GitHub Pages tramite Jekyll per https://bolognatechscene.it/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolognatechscene/bolognatechscene.github.io.git"
+  },
+  "author": "BolognaTechScene",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bolognatechscene/bolognatechscene.github.io/issues"
+  },
+  "homepage": "https://github.com/bolognatechscene/bolognatechscene.github.io#readme",
+  "dependencies": {
+    "Demo": "git+https://github.com/callmenick/Slack-CSS-Logo.git"
+  }
+}

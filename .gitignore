@@ -19,3 +19,6 @@ $RECYCLE.BIN/
 
 # Webstorm
 .idea
+=======
+# NPM
+node_modules/

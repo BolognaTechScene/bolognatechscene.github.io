@@ -1,3 +1,5 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
+{% include css/slack.min.css %}
+{% include css/styles.css %}
 {{ content }}
