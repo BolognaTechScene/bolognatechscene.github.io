@@ -498,8 +498,13 @@ section h3.section-subheading {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.timeline>li .timeline-image h3 {
+    margin-top: 25px;
+    font-size: 10px;
+}
+
 .timeline>li .timeline-image h4 {
-    margin-top: 12px;
+    margin-top: 8px;
     font-size: 10px;
     line-height: 14px;
 }
@@ -566,8 +571,13 @@ section h3.section-subheading {
         margin-left: -50px;
     }
 
+    .timeline>li .timeline-image h3 {
+        margin-top: 30px;
+        font-size: 14px;
+    }
+
     .timeline>li .timeline-image h4 {
-        margin-top: 16px;
+        margin-top: 10px;
         font-size: 13px;
         line-height: 18px;
     }
@@ -594,8 +604,13 @@ section h3.section-subheading {
         margin-left: -75px;
     }
 
+    .timeline>li .timeline-image h3 {
+        margin-top: 40px;
+        font-size: 20px;
+    }
+
     .timeline>li .timeline-image h4 {
-        margin-top: 30px;
+        margin-top: 15px;
         font-size: 18px;
         line-height: 26px;
     }

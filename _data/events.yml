@@ -1,0 +1,18 @@
+- title: Sample Event
+  location: Via Roma 12
+  date: 2015-10-05 19:00
+  host: Group name
+  link: http://someurl/here
+  description: "qualche descrizione"
+- title: Aperitivo Bologna JS
+  location: BrewDog Bar Bologna, Via San Valentino 2G, 40122 Bologna
+  date: 2016-07-06 19:00:00
+  host: Bologna JS
+  link: http://www.bolognajs.com
+  description: "Appuntamento alle 19 da Brew Dog. JS, chiacchiere e birrette artigianali. Per quelli che hanno voglia pi&ugrave; tardi cena da Tot&ograve;.\n\nNon &egrave; necessaria alcuna iscrizione o prenotazione, venite in massa e senza paura, sar&agrave; come sempre occasione per fare balotta."
+- title: No Slide Conf
+  location: TBD
+  date: 2016-12-03 16:00
+  host: NoSlidesConf
+  link: http://www.noslidesconf.net/
+  description: "Too many conferences sessions are entirely based on slideware full of engaging pictures and funny slogans\n\nSharing something that can only be learned by experience is way more effective when practical examples are involved!\n\nNoSlidesConf is about step-by-step technical sessions showing how to get code up and running: live changes to code and configuration applied during 45-minute live demos"

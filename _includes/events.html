@@ -1,0 +1,57 @@
+<!-- About Section -->
+
+    <section id="events">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Calendario Eventi</h2>
+                    <h3 class="section-subheading text-muted">I prossimi appuntamenti in città.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        {% capture curDate %}{{ site.time | date: '%s' | minus: 86000 }}{% endcapture %}
+                        {% assign counter = 0 %}
+                        {% for event in site.data.events  | sort:"date" %}
+                        {% assign postStartDate = event.date | date: '%s' %}
+                            {% if postStartDate >= curDate %}
+                                <li class="timeline-inverted">
+                                    <div class="timeline-image">
+                                        <h3>{{ event.date | date: '%B' }}</h3>
+                                        <h4 class="subheading">{{ event.date | date: '%d' }}</h4>
+                                    </div>
+                                    <div class="timeline-panel">
+                                        <div class="timeline-heading">
+                                            <span class="date">{{ event.date | date: '%A %d %B %H:%M' }}</span>
+                                            <p>{{ event.title }}</p>
+                                            {% if event.host %}
+                                            <span class="host">Hosted by {{ event.host }}</span>
+                                            {% endif %}
+                                        </div>
+                                        <div class="timeline-body">
+                                            <p class="text-muted">{{ event.description }}</p>
+                                            {% if event.link %}
+                                            <a href="{{ event.link }}">Maggiori Informazioni</a>
+                                            {% endif %}
+                                        </div>
+                                    </div>
+                                </li>
+                            {% assign counter = counter | plus: 1 %}
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                    {% if counter == 0 %}
+                    <div class="empty-events">
+                        <p class="emoticon">
+                          :-(
+                        </p>
+                        <p>
+                          Non ci sono eventi imminenti!
+                        </p>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </section>
