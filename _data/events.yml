@@ -1,9 +1,3 @@
-- title: Sample Event
-  location: Via Roma 12
-  date: 2015-10-05 19:00
-  host: Group name
-  link: http://someurl/here
-  description: "qualche descrizione"
 - title: Aperitivo Bologna JS
   location: BrewDog Bar Bologna, Via San Valentino 2G, 40122 Bologna
   date: 2016-07-06 19:00:00
