@@ -13,9 +13,11 @@
             {% assign shuffled_groups = site.data.groups | shuffle %}
             {% for group in shuffled_groups %}
                 <div class="col-md-3 col-sm-6 portfolio-item">
+                    <h5>{{ group.title }}</h5>
                     <a href="{{ group.url }}">
                         <img src="img/groups/{{ group.img }}" class="img-responsive img-centered" alt="">
                     </a>
+                    <p>{{ group.description }}</p>
                 </div>
             {% endfor %}
             </div>

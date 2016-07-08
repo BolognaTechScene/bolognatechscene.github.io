@@ -2,6 +2,19 @@
     margin: 10px auto;
 }
 
-.portfolio-item img {
+.portfolio-item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.portfolio-item > a > img {
     max-height: 262.5px;
+}
+
+.portfolio-item > h5 {
+    text-align: center;
+}
+
+.portfolio-item > p {
+    text-align: center;
 }
