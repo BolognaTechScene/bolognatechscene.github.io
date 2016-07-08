@@ -1,3 +1,7 @@
 .c-slack {
     margin: 10px auto;
 }
+
+.portfolio-item img {
+    max-height: 262.5px;
+}

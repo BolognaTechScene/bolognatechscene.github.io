@@ -4,10 +4,15 @@
   description: "Gruppo di appassionati di Javascript di Bologna. Ci incontriamo ogni due settimane per parlare di Javascript e di tutto quello che gli ruota attorno: front-end, back-end, microcontrollori e qualsiasi cosa si possa programmare tramite JS."
   url: http://www.bolognajs.com/
   fbpage: BolognaJS
-
 - title: HackInBo
   img: hackinbo-center.png
   category: Sicurezza Informatica
   description: "HackInBo è il primo evento totalmente gratuito sulla Sicurezza Informatica nella città di Bologna. L’evento nasce per sopperire alla mancanza di una manifestazione di questo tipo sul territorio Bolognese. Ci sarà l’occasione per parlare e incontrare esperti del settore in un'atmosfera rilassata e collaborativa cogliendo l’occasione per rimanere aggiornati sulle ultime tematiche riguardanti l’IT-Security"
   url: http://www.hackinbo.it/
   fbpage: hackinbo
+- title: Php User Group
+  img: pugBO.png
+  category: Programmazione
+  description: "PHP User Group di Bologna."
+  url: http://bologna.grusp.org/
+  fbpage:
