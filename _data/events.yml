@@ -1,24 +1,21 @@
-- title: Sample Event
-  location: Via Roma 12
-  date: 2015-10-05 19:00
-  host: Group name
-  link: http://someurl/here
-  description: "qualche descrizione"
 - title: Aperitivo Bologna JS
   location: BrewDog Bar Bologna, Via San Valentino 2G, 40122 Bologna
   date: 2016-07-06 19:00:00
   host: Bologna JS
   link: http://www.bolognajs.com
   description: "Appuntamento alle 19 da Brew Dog. JS, chiacchiere e birrette artigianali. Per quelli che hanno voglia pi&ugrave; tardi cena da Tot&ograve;.\n\nNon &egrave; necessaria alcuna iscrizione o prenotazione, venite in massa e senza paura, sar&agrave; come sempre occasione per fare balotta."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1422.9568216862751!2d11.329863801359075!3d44.49643625352546!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf68ef92e6083dd2!2sBrewDog+Bar!5e0!3m2!1sit!2sit!4v1468022705547" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: Security Dinner HackInBo
   location: Victoria Station, Via Zanardi, 76, 40131 Bologna
   date: 2016-07-09 16:00:00
   host: HackInBo
   link: https://www.facebook.com/events/283793281958802
   description: "HackInBo Security Dinner è una cena dedicata agli appassionati di Sicurezza Informatica. L'occasione è giusta per rivedere vecchi amici, conoscerne di nuovi e scambiare due chiacchiere. Il fatto di partecipare agli eventi di Sicurezza pregiudica sempre lo scambio di informazioni tra i partecipanti. Questo incontro è l'occasione giusta per parlarsi in totale tranquillità e per fare due chiacchiere. Ovviamente è aperto a tutti e potete portare chi volete!"
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11379.710838295654!2d11.3243574!3d44.5166341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc1a64bbdd3092623!2sVictoria+Station!5e0!3m2!1sit!2sit!4v1468024083786" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: No Slide Conf
   location: TBD
   date: 2016-12-03 16:00
   host: NoSlidesConf
   link: http://www.noslidesconf.net/
   description: "Too many conferences sessions are entirely based on slideware full of engaging pictures and funny slogans\n\nSharing something that can only be learned by experience is way more effective when practical examples are involved!\n\nNoSlidesConf is about step-by-step technical sessions showing how to get code up and running: live changes to code and configuration applied during 45-minute live demos"
+  gmaps: <h2>TBD</h2>

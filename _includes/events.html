@@ -17,20 +17,23 @@
                         {% assign postStartDate = event.date | date: '%s' %}
                             {% if postStartDate >= curDate %}
                                 <li class="timeline-inverted">
+                                    <div class="gmaps">
+                                        {{ event.gmaps }}
+                                    </div>
                                     <div class="timeline-image">
                                         <h3>{{ event.date | date: '%B' }}</h3>
                                         <h4 class="subheading">{{ event.date | date: '%d' }}</h4>
                                     </div>
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
-                                            <span class="date">{{ event.date | date: '%A %d %B %H:%M' }}</span>
-                                            <p>{{ event.title }}</p>
+                                            <h3 class="date">{{ event.date | date: '%A %d %B %H:%M' }}</h3>
+                                            <h4>{{ event.title }}</h4>
                                             {% if event.host %}
-                                            <span class="host">Hosted by {{ event.host }}</span>
+                                            <span class="host bold">Hosted by {{ event.host }}</span>
                                             {% endif %}
                                         </div>
                                         <div class="timeline-body">
-                                            <p class="text-muted">{{ event.description }}</p>
+                                            <p class="text">{{ event.description }}</p>
                                             {% if event.link %}
                                             <a href="{{ event.link }}">Maggiori Informazioni</a>
                                             {% endif %}
