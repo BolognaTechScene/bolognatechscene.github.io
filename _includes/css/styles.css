@@ -1,3 +1,7 @@
+.bold {
+    font-weight: bold;
+}
+
 .c-slack {
     margin: 10px auto;
 }
@@ -17,4 +21,22 @@
 
 .portfolio-item > p {
     text-align: center;
+}
+
+.pull-right {
+    float: right;
+}
+
+.pull-left {
+    float: left;
+}
+
+.timeline-inverted iframe {
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .timeline-inverted .gmaps {
+        float: left;
+    }
 }
