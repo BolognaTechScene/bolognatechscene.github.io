@@ -9,11 +9,11 @@
                     </h3>
                 </div>
             </div>
-            <div class="row">
+            <div class="flex flex-column">
             {% assign shuffled_groups = site.data.groups | shuffle %}
             {% for group in shuffled_groups %}
-                <div class="col-md-3 col-sm-6 portfolio-item">
-                    <h5>{{ group.title }}</h5>
+                <div class="portfolio-item">
+                    <h3>{{ group.title }}</h3>
                     <a href="{{ group.url }}">
                         <img src="img/groups/{{ group.img }}" class="img-responsive img-centered" alt="">
                     </a>
