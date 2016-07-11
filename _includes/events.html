@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="timeline">
-                        {% capture curDate %}{{ site.time | date: '%s' | minus: 86000 }}{% endcapture %}
+                        {% capture curDate %}{{ site.time | date: '%s' | minus: 604800 }}{% endcapture %}
                         {% assign counter = 0 %}
                         {% for event in site.data.events  | sort:"date" %}
                         {% assign postStartDate = event.date | date: '%s' %}
