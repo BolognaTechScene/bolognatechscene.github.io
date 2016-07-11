@@ -50,3 +50,9 @@
         float: left;
     }
 }
+
+@media (max-width: 768px) {
+    .timeline-inverted iframe {
+        max-height: 250px;
+    }
+}
