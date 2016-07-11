@@ -28,3 +28,9 @@
   description: "Gruppo di persone interessate ad \"eXtreme Programming\" e a tutto ciò che ruota intorno al mondo del software: tecnologie, pratiche e metodologie. Il gruppo si ritrova durante serate a tema, organizzate con cadenza mensile tra Ottobre e Luglio. Ogni incontro si conclude con cena di gruppo e tante chiacchiere."
   url: http://glokta.biodec.com/cgi-bin/mailman/listinfo/bologna-xpug/
   fbpage:
+- title: NodeSchool
+  img: ns.jpg
+  category: Programmazione
+  description: "NodeSchool è una community open source condotta da volontari con gli obiettivi di creare curriculum di programmatori di alta qualità e ospitare eventi di community learning attorno alle tecnologie NodeJs / JavaScript"
+  url: http://nodeschool.io/italy/
+  fbpage:
