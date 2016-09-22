@@ -47,6 +47,13 @@
   link: https://2016.fromthefront.it
   description: "From the Front is an inspiring, formative, cutting edge two days gathering of some of the best frontend developers and UX people in the world."
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.2960860700337!2d11.345937815525069!3d44.48859957910149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4c724f32cb1%3A0x5095a6bf8e17de51!2sTeatro+Duse%2C+Via+Cartoleria%2C+42%2C+40124+Bologna%2C+Italia!5e0!3m2!1sit!2sus!4v1472508319049" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Linux Day 2016
+  location: "Istituto di istruzione superiore Belluzzi Fioravanti, via Giovanni Domenico Cassini 3, Bologna"
+  date: 2016-10-22 07:00:00
+  host: Emilia Romagna Linux Users Group
+  link: http://erlug.linux.it/linuxday/2016/
+  description: "In occasione del sedicesimo Linux Day, giornata nazionale promossa da Italian Linux Society a sostegno di GNU/Linux e del Software Libero, l'Emilia Romagna Linux Users Group organizza: linuxday@erlug.<br/>Nel corso della giornata, totalmente gratuita, si terranno una serie di conferenze incentrate sul sistema operativo GNU/Linux ed il Software Libero, con talk sia tecnici che di carattere introduttivo."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.231852169459!2d11.283519616113574!3d44.489915879101446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd43b0f02c413%3A0x2e2023cc8874b6f1!2sIIS+Belluzzi+Fioravanti!5e0!3m2!1sit!2sit!4v1474527007974" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: HackinBo Winter 2016
   location: "Best Western Plus Tower Hotel Bologna, viale Lenin, 43, 40138 Bologna"
   date: 2016-10-29 07:00:00
@@ -56,7 +63,7 @@
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11384.707551336796!2d11.3911308!3d44.4910422!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5755256d7430afe!2sBEST+WESTERN+PLUS+Tower+Hotel+Bologna!5e0!3m2!1sit!2sit!4v1473892182783" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: NoSlidesConf
   location: "T3LAB Via Sario Bassanelli, 9/11 CAP 40129 – Bologna (BO)"
-  date: 2016-12-03 16:00
+  date: 2016-12-03 07:00:00
   host: NoSlidesConf
   link: http://www.noslidesconf.net/
   description: "Too many conferences sessions are entirely based on slideware full of engaging pictures and funny slogans\n\nSharing something that can only be learned by experience is way more effective when practical examples are involved!\n\nNoSlidesConf is about step-by-step technical sessions showing how to get code up and running: live changes to code and configuration applied during 45-minute live demos"
