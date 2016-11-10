@@ -68,6 +68,20 @@
   link: https://www.facebook.com/events/183125592120277/
   description: "HackInBo è il primo evento totalmente gratuito sulla Sicurezza Informatica nella città di Bologna. L'evento nasce per sopperire alla mancanza di una manifestazione di questo tipo sul territorio Bolognese. Ci sarà l’occasione per parlare e incontrare esperti del settore in un’atmosfera rilassata e collaborativa cogliendo l’occasione per rimanere aggiornati sulle ultime tematiche riguardanti l'IT-Security. L'evento è rivolto ai dirigenti d’azienda, agli it-manager, ai sistemisti, agli appassionati e a tutte quelle persone interessate ad approfondire argomenti di estrema attualità!"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11384.707551336796!2d11.3911308!3d44.4910422!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5755256d7430afe!2sBEST+WESTERN+PLUS+Tower+Hotel+Bologna!5e0!3m2!1sit!2sit!4v1473892182783" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Incontro di Novembre - Bologna XPug
+  location: "T3LAB Via Sario Bassanelli, 9/11 CAP 40129 – Bologna (BO)"
+  date: 2016-11-15 18:00:00
+  host: Bologna XPug
+  link: https://boxpug1116.eventbrite.it
+  description: "Durante questo incontro XPug Bologna proverà il workshop che quest'anno porterà all'Italian Agile Day 2016.<br />Sarà una sessione hands-on (ovviamente...), ogni partecipante è invitato a venire con il proprio portatile preparato secondo le istruzione spiegate nella pagina EventBrite."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.672869433793!2d11.344746316114334!3d44.521853579101204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd36eea7ae9f5%3A0x145e01b5578946e6!2sT3LAB+%7C+Technology+Transfer+Team!5e0!3m2!1sit!2sit!4v1472119996958" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Aperitivo Bologna JS
+  location: "BrewDog Bar Bologna, Via San Valentino 2G, 40122 Bologna"
+  date: 2016-11-16 18:00:00
+  host: Bologna JS
+  link: http://www.bolognajs.com
+  description: "Appuntamento alle 19 da Brew Dog. JS, chiacchiere e birrette artigianali. Per quelli che hanno voglia pi&ugrave; tardi cena da Tot&ograve;.\n\nNon &egrave; necessaria alcuna iscrizione o prenotazione, venite in massa e senza paura, sar&agrave; come sempre occasione per fare balotta."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1422.9568216862751!2d11.329863801359075!3d44.49643625352546!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf68ef92e6083dd2!2sBrewDog+Bar!5e0!3m2!1sit!2sit!4v1468022705547" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: Haskell Day Bologna
   location: "Kilowatt Bologna, Via Castiglione, 136, 40136 Bologna, Italia"
   date: 2016-11-19 09:00:00
