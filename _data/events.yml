@@ -82,6 +82,13 @@
   link: http://www.bolognajs.com
   description: "Appuntamento alle 19 da Brew Dog. JS, chiacchiere e birrette artigianali. Per quelli che hanno voglia pi&ugrave; tardi cena da Tot&ograve;.\n\nNon &egrave; necessaria alcuna iscrizione o prenotazione, venite in massa e senza paura, sar&agrave; come sempre occasione per fare balotta."
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1422.9568216862751!2d11.329863801359075!3d44.49643625352546!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf68ef92e6083dd2!2sBrewDog+Bar!5e0!3m2!1sit!2sit!4v1468022705547" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: WordPress Meetup Bologna
+  location: "Working Capital Bologna #WCAP, Via Guglielmo Oberdan 22, Bologna"
+  date: 2016-11-17 17:15:00
+  host: WordPress Meetup Bologna
+  link: https://www.meetup.com/it-IT/WordPress-Meetup-Bologna/events/235439083/?eventId=235439083&from=ref
+  description: "Nuovo appuntamento del WordPress Meetup a Bologna, giovedì 17 Novembre a partire dalle ore 18.15 fino alle 20.30, il luogo dell'incontro è il Working Capital #WCAP in Via Guglielmo Oberdan 22, 40136 Bologna (e con questo siamo a quota 19 :-))"
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.9123341485497!2d11.343629415525335!3d44.49646307910151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4bdbf80b429%3A0xb3f86135404b9202!2sTIM+Wcap+Bologna!5e0!3m2!1sen!2sus!4v1479299502367" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: Haskell Day Bologna
   location: "Kilowatt Bologna, Via Castiglione, 136, 40136 Bologna, Italia"
   date: 2016-11-19 09:00:00
@@ -90,9 +97,16 @@
   description: "<b>Dove:</b> Bologna, Giardini Margherita, nella struttura <a href='http://leserre.kilowatt.bo.it/gabbia-del-leone/'>Gabbia del Leone</a>. La gabbia del leone è situata all’interno de Le Serre dei Giardini.<br/> <b>Chi:</b> chiunque sia interessato alla programmazione funzionale, indipendentemente dal suo livello di esperienza.<br/><b>Cosa faremo:</b> lavoreremo in gruppi (2-6 persone circa) su diversi progetti. Ogni persona può scegliere il progetto che vuole, saranno date delle indicazioni sul livelo di conoscienza richiesto per contribuire. Lo scopo è provare a utilizzare Haskell per un progetto concreto, toccare con mano il modo che hanno altri di lavorare e di condividere le esperienze nelle numerose pause di gruppo. Lo scopo è puramente didattico, quindi nessuna ansia.<br/><b>Cosa portare:</b> un computer portatile e un ambiente Haskell configurato.<br/><b>Come arrivare:</b> dalla Stazione Centrale dei Treni di Bologna, prendere l'autobus 33 (frequenza 15 minuti) e scendere alla fermata Giardini Margherita e/o Porta Santo Stefano (circa 20 minuti di viaggio). Entrare nei Giardini Margherita, dall'ingresso di Via Castiglione 136 o Via Polischi 9, e recarsi presso 'Le Serre dei Giardini', alla struttura <a href='http://leserre.kilowatt.bo.it/gabbia-del-leone/'>Gabbia del Leone</a>."
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.538871079705!2d11.346437915815757!3d44.483624079101745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4c5a8aa7def%3A0x8767844b5d2b80d5!2sVia+Castiglione%2C+136%2C+40136+Bologna!5e0!3m2!1sit!2sit!4v1478277600800" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: NoSlidesConf
-  location: "T3LAB Via Sario Bassanelli, 9/11 CAP 40129 – Bologna (BO)"
+  location: "T3LAB Via Sario Bassanelli, 9/11 40129 Bologna"
   date: 2016-12-03 08:30:00
   host: NoSlidesConf
-  link: http://www.noslidesconf.net/
+  link: http://www.noslidesconf.net
   description: "Too many conferences sessions are entirely based on slideware full of engaging pictures and funny slogans\n\nSharing something that can only be learned by experience is way more effective when practical examples are involved!\n\nNoSlidesConf is about step-by-step technical sessions showing how to get code up and running: live changes to code and configuration applied during 45-minute live demos"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.672869433793!2d11.344746316114334!3d44.521853579101204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd36eea7ae9f5%3A0x145e01b5578946e6!2sT3LAB+%7C+Technology+Transfer+Team!5e0!3m2!1sit!2sit!4v1472119996958" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Incontro DevOps Italia 2017
+  location: "Savoia Hotel Regency, Via del Pilastro 2, 40127 Bologna"
+  date: 2017-03-10 08:00:00
+  host: Incontro DevOps Italia
+  link: http://www.incontrodevops.it
+  description: "The 5th edition of Incontro DevOps Italia will take place in Bologna on Friday, March 10th. We are looking forward to meet our community of Italian and European DevOps for a full day of sharing and fun!<br />Call for Papers is open and will last until January 8th. Suggested topics include (but are not limited to): DevOps, Continuous Delivery, Cloud, Microservices, Automation, Big Data, Containers, Data Center Operating Systems, Software Operability, IT operating models and how to plan and organise IT Operations."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11381.028382664115!2d11.3849949!3d44.5098871!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x19c877e26a7b7526!2sSavoia+Hotel+Regency!5e0!3m2!1sit!2sit!4v1479299980083" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
