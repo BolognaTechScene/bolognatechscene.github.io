@@ -110,6 +110,13 @@
   link: http://www.noslidesconf.net
   description: "Too many conferences sessions are entirely based on slideware full of engaging pictures and funny slogans\n\nSharing something that can only be learned by experience is way more effective when practical examples are involved!\n\nNoSlidesConf is about step-by-step technical sessions showing how to get code up and running: live changes to code and configuration applied during 45-minute live demos"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.672869433793!2d11.344746316114334!3d44.521853579101204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd36eea7ae9f5%3A0x145e01b5578946e6!2sT3LAB+%7C+Technology+Transfer+Team!5e0!3m2!1sit!2sit!4v1472119996958" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Meeting on Microservices 2016
+  location: "Monrif S.p.A. Via Enrico Mattei 106 Bologna"
+  date: 2016-12-20 08:30:00
+  host: ItalianaSoftware
+  link: http://www.italianasoftware.com/mom2016.html
+  description: "Il primo appuntamento in Italia sui microservizi tra industria, innovazione e ricerca"
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d177.8672089694697!2d11.417602!3d44.497221!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4689b8f488c28e29!2sMonrif+(S.P.A.)!5e0!3m2!1sen!2sit!4v1480491620476" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: Incontro DevOps Italia 2017
   location: "Savoia Hotel Regency, Via del Pilastro 2, 40127 Bologna"
   date: 2017-03-10 08:00:00
