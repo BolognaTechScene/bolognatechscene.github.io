@@ -110,6 +110,13 @@
   link: http://www.noslidesconf.net
   description: "Too many conferences sessions are entirely based on slideware full of engaging pictures and funny slogans\n\nSharing something that can only be learned by experience is way more effective when practical examples are involved!\n\nNoSlidesConf is about step-by-step technical sessions showing how to get code up and running: live changes to code and configuration applied during 45-minute live demos"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.672869433793!2d11.344746316114334!3d44.521853579101204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd36eea7ae9f5%3A0x145e01b5578946e6!2sT3LAB+%7C+Technology+Transfer+Team!5e0!3m2!1sit!2sit!4v1472119996958" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Meetup Machine Learning e Intelligenza Artificiale
+  location: "Le Stanze Café, Via del Borgo di San Pietro 1 Bologna"
+  date: 2016-12-07 18:30:00
+  host: Meetup Intelligenza artificiale Bologna
+  link: https://www.meetup.com/it-IT/Meetup-Intelligenza-artificiale-Bologna/events/235418093/
+  description: "Fissiamo il nostro primo incontro per condividere le nostre esperienze personali e professionali, scambiarci conoscenze e idee per contribuire ad arrichire il panorama dell'Intelligenza Artificiale e Machine Learning a Bologna.<br />Alcuni MachineWhisperers faranno una breve overview delle applicazioni di MachineLeaning in ambito business applicate nei mercati locali e internazionali e sviluppate con frameworks quali Tensorflow, TFLearn, Theano ed NLTK.<br/>Chi vorra' potra' fare aperetivo o prendere da bere.<br />La partecipazione e' libera e gratuita!"
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.82991089778!2d11.345639915525386!3d44.49815187910142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4bd1d439ea7%3A0x2e81f16f1974847d!2sLe+Stanze!5e0!3m2!1sen!2sus!4v1480940736658" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: Chimica @RaspiBO
   location: "Biblioteca Meridiana (c/o Circolo Arci Guernelli), Via Gandusio 6 Bologna"
   date: 2016-12-07 19:00:00
