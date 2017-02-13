@@ -205,9 +205,16 @@
   location: "Working Capital Bologna #WCAP, Via Guglielmo Oberdan 22, Bologna"
   date: 2017-02-16 17:15:00
   host: WordPress Meetup Bologna
-  link: https://www.meetup.com/it-IT/WordPress-Meetup-Bologna/events/236195210/
+  link: https://www.meetup.com/it-IT/WordPress-Meetup-Bologna/events/236195224/
   description: "{Argomento della serata: preventivi per il web} Nuovo appuntamento del WordPress Meetup a Bologna, giovedì 16 Febbraio 2017 a partire dalle ore 18.15 fino alle 20.30, il luogo dell'incontro è il Working Capital #WCAP in Via Guglielmo Oberdan 22, 40136 Bologna (e con questo siamo a quota 22 :-))"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.9123341485497!2d11.343629415525335!3d44.49646307910151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4bdbf80b429%3A0xb3f86135404b9202!2sTIM+Wcap+Bologna!5e0!3m2!1sen!2sus!4v1479299502367" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Incontro di Febbraio 2017 - XPug Bologna
+  location: "T3LAB Via Sario Bassanelli 9/11, Bologna (BO)"
+  date: 2017-02-21 18:00:00
+  host: XPug Bologna
+  link: https://boxpug0217.eventbrite.it
+  description: "Durante questa serata Gabriele Santomaggio, software developer di Erlang Solutions, ci parlerà di come gestire clusterizzazione e scalabilità attraverso l'uso di <a href='https://www.erlang.org/' target='_blank'>Erlang</a>, il linguaggio di programmazione funzionale creato da Ericsson verso la fine degli anni '80."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.672869433793!2d11.344746316114334!3d44.521853579101204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd36eea7ae9f5%3A0x145e01b5578946e6!2sT3LAB+%7C+Technology+Transfer+Team!5e0!3m2!1sit!2sit!4v1472119996958" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: Cloud serverless episode
   location: "Bar Wolf Via Giuseppe Massarenti 118 Bologna"
   date: 2017-02-25 15:00:00
@@ -222,3 +229,10 @@
   link: http://www.incontrodevops.it
   description: "The 5th edition of Incontro DevOps Italia will take place in Bologna on Friday, March 10th. We are looking forward to meet our community of Italian and European DevOps for a full day of sharing and fun!<br />Call for Papers is open and will last until January 8th. Suggested topics include (but are not limited to): DevOps, Continuous Delivery, Cloud, Microservices, Automation, Big Data, Containers, Data Center Operating Systems, Software Operability, IT operating models and how to plan and organise IT Operations."
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11381.028382664115!2d11.3849949!3d44.5098871!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x19c877e26a7b7526!2sSavoia+Hotel+Regency!5e0!3m2!1sit!2sit!4v1479299980083" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Incontro di Marzo 2017 - XPug Bologna
+  location: "T3LAB Via Sario Bassanelli 9/11, Bologna (BO)"
+  date: 2017-03-21 18:00:00
+  host: XPug Bologna
+  link: https://boxpug0317.eventbrite.it
+  description: "Durante questa serata XPug Bologna ospita un Mini-Meetup serale di Italian C++ Community con l'obiettivo di aprire un dialogo sullo sviluppo C++ nel Bolognese.<br/>La serata vuole essere soprattutto una discussione interattiva dove chiunque potrà presentarsi, dire la sua e fare domande.<br/>Con chi vorrà, concluderemo il meetup con una pizzata in compagnia."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.672869433793!2d11.344746316114334!3d44.521853579101204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd36eea7ae9f5%3A0x145e01b5578946e6!2sT3LAB+%7C+Technology+Transfer+Team!5e0!3m2!1sit!2sit!4v1472119996958" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
