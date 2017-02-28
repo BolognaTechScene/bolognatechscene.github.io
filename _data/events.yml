@@ -223,12 +223,19 @@
   description: "In questo episodio affronteremo il mondo dei servizi Cloud serverless, illustrando i servizi messi a disposizione da due differenti vendor, Amazon Web Services e Microsoft Azure"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.0958094093044!2d11.364327515963693!3d44.49270360575649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4b4b2a709cd%3A0x9a0f92bff853f8eb!2sWolf!5e0!3m2!1sen!2sus!4v1480492150907" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: Incontro DevOps Italia 2017
-  location: "Savoia Hotel Regency, Via del Pilastro 2, 40127 Bologna"
+  location: "Savoia Hotel Regency, Via del Pilastro 2, Bologna"
   date: 2017-03-10 08:00:00
   host: Incontro DevOps Italia
   link: http://www.incontrodevops.it
   description: "The 5th edition of Incontro DevOps Italia will take place in Bologna on Friday, March 10th. We are looking forward to meet our community of Italian and European DevOps for a full day of sharing and fun!<br />Call for Papers is open and will last until January 8th. Suggested topics include (but are not limited to): DevOps, Continuous Delivery, Cloud, Microservices, Automation, Big Data, Containers, Data Center Operating Systems, Software Operability, IT operating models and how to plan and organise IT Operations."
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11381.028382664115!2d11.3849949!3d44.5098871!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x19c877e26a7b7526!2sSavoia+Hotel+Regency!5e0!3m2!1sit!2sit!4v1479299980083" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Sviluppare user story con test di accettazione in italiano e PHP a Bologna
+  location: "Synergia Srl Centro Formazione, Via del Pratello 9, Bologna"
+  date: 2017-03-17 18:30:00
+  host: PugBO
+  link: https://www.eventbrite.it/e/biglietti-pugbo-sviluppo-agile-di-user-story-e-test-di-accettazione-in-italiano-con-php-a-bologna-32405352281
+  description: "Durante questa serata effettueremo una presentazione su come integrare il management direzionale nella fase di sviluppo del software, in particolare coinvolgendolo nella redazione dei test funzionali e di accettazione in italiano.<br />L'incontro manterrà il profilo tecnico più basso possibile, il target principale sono i project manager, gli sviluppatori ma anche dirigenti che si occupano di sviluppo applicazioni web in PHP<br />A seguire, per chi vorrà rimanere, l'evento di networking: #BeerBO in una delle accoglienti birrerie del Pratello"
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.9518122919612!2d11.333462415525302!3d44.49565417910144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd493cf8f66c7%3A0x8dfdd5bf13c374bd!2sSynergia+Srl+Centro+Formazione+Prometheo!5e0!3m2!1sit!2sus!4v1488267327206" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: ASP.NET Core episode
   location: "Bar Wolf Via Giuseppe Massarenti 118 Bologna"
   date: 2017-03-18 15:00:00
@@ -236,7 +243,7 @@
   link: https://www.meetup.com/it-IT/BolognaDeveloperZone/events/237898274
   description: "In questo episodio approfondiremo il nuovo framework cross-platform di Microsoft ASP.NET Core, ne esamineremo l'archiettutra e i pattern più efficaci da adottare"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.0958094093044!2d11.364327515963693!3d44.49270360575649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4b4b2a709cd%3A0x9a0f92bff853f8eb!2sWolf!5e0!3m2!1sen!2sus!4v1480492150907" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-- title: XPug Bologna & Italian C++ Mini-Meetup<br/>"C++17 for the daily job"
+- title: XPug Bologna & Itlalian C++ Mini-Meetup<br/>"C++17 for the daily job"
   location: "T3LAB Via Sario Bassanelli 9/11, Bologna (BO)"
   date: 2017-03-21 18:00:00
   host: XPug Bologna
