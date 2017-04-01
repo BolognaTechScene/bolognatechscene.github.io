@@ -250,3 +250,17 @@
   link: https://boxpug0317.eventbrite.it
   description: "Durante questa serata XPug Bologna ospita un Mini-Meetup serale di Italian C++ Community con l'obiettivo di aprire un dialogo sullo sviluppo C++ nel Bolognese.<br/>La serata vuole essere soprattutto una discussione interattiva dove chiunque potrà presentarsi, dire la sua e fare domande.<br/>Con chi vorrà, concluderemo il meetup con una pizzata in compagnia."
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.672869433793!2d11.344746316114334!3d44.521853579101204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd36eea7ae9f5%3A0x145e01b5578946e6!2sT3LAB+%7C+Technology+Transfer+Team!5e0!3m2!1sit!2sit!4v1472119996958" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: Bologna JS - The future of Animations with Web Animation API di Francesco Strazzullo e Alessandro Violini
+  location: "Working Capital Bologna #WCAP, Via Guglielmo Oberdan 22, Bologna"
+  date: 2017-04-06 16:30:00
+  host: Bologna JS
+  link: https://www.eventbrite.it/e/biglietti-bolognajs-the-future-of-animations-with-web-animation-api-di-francesco-strazzullo-e-alessandro-33237486216
+  description: "Durante il talk parleremo delle Web Animations API. Questa nuova specifica messa a disposizione dal W3C ci permette di creare animazioni tramite delle semplici funzioni JavaScript. Dopo una breve introduzione sulle animazioni CSS3, vedremo poi come utilizzare questa API per creare applicazioni sempre più complesse e ne studieremo l'integrazione con React."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.9123341485497!2d11.343629415525335!3d44.49646307910151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4bdbf80b429%3A0xb3f86135404b9202!2sTIM+Wcap+Bologna!5e0!3m2!1sen!2sus!4v1479299502367" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: IOTDay il 1° evento interamente dedicato al mondo dell'IoT
+  location: "Le Serre dei Giardini Margherita, Bologna"
+  date: 2017-04-09 08:30:00
+  host: Internet of Things [IoT] Bologna
+  link: https://www.meetup.com/it-IT/IOTersBologna/events/236813539/
+  description: "L'IOT DAY, vuole essere un momento di confronto sano e partecipativo, in cui scambiarci opinioni sul tema IoT in modo informale.<br />Come una colazione fatta fuori casa, ma tra amici. "
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.5389345118415!2d11.34643661552486!3d44.483622779101594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4c50b45187f%3A0xab03134a753d7ad1!2sSerre+dei+Giardini+Margherita!5e0!3m2!1sen!2sus!4v1491064933166" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
