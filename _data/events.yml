@@ -294,21 +294,21 @@
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.672869433793!2d11.344746316114334!3d44.521853579101204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd36eea7ae9f5%3A0x145e01b5578946e6!2sT3LAB+%7C+Technology+Transfer+Team!5e0!3m2!1sit!2sit!4v1472119996958" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: Xamarin Episode II
   location: "Bar Wolf Via Giuseppe Massarenti 118 Bologna"
-  date: 2017-05-20 14:00:00
+  date: 2017-05-20 16:00:00 +0200
   host: Bologna Developer Zone
   link: https://www.meetup.com/it-IT/BolognaDeveloperZone/events/239563356
   description: "Secondo episodo su Xamarin dove approfondiremo alcuni aspetti \"under the hood\" della piattaforma. Ospite del pomeriggio sarà Dan Ardelean, Microsoft MVP, Xamarin Certified e CTO di Mahiz, azienda specializzata nello sviluppo di applicaizoni mobili cross-platform."
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.0958094093044!2d11.364327515963693!3d44.49270360575649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4b4b2a709cd%3A0x9a0f92bff853f8eb!2sWolf!5e0!3m2!1sen!2sus!4v1480492150907" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: Prima HackFest italiana di QGIS
   location: "Sala Atelier presso la Biblioteca Salaborsa di Bologna, Piazza Nettuno 3"
-  date: 2017-05-27 08:00:00
+  date: 2017-05-27 10:00:00 +0200
   host: Gruppo utenti italiani di QGIS
   link: https://github.com/qgis-it/qgis-it.github.io/wiki/QHF-IT1
   description: "La HF non è solo per sviluppatori: tutti possono partecipare, per l'obiettivo che gli interessa di più. Ci sarà spazio per chi vuole scrivere codice, tradurre, scrivere documentazione, presentare il proprio lavoro, chiedere e dare consigli, fare proposte di collaborazione e altro ancora. Ai partecipanti verranno dati Prodigiosi Gadgets QGIS ;)"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.9968277852654!2d11.339634115991252!3d44.49473180562329!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4bfc278adc1%3A0xc266fcbe4097cdfd!2sBiblioteca+Salaborsa!5e0!3m2!1sen!2sus!4v1495825379770" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: The Future of Programming con Bartosz Milewski
   location: "MakeItModena, Strada Barchetta, 77, Modena"
-  date: 2017-06-06 18:30:00
+  date: 2017-06-06 20:30:00 +0200
   host: Associazione ConoscereLinux
   link: http://conoscerelinux.org/2017/05/18/the-future-of-programming-con-bartosz-milewski/
   description: "Bartosz Milewski - esperto internazionale di sviluppo software, programmazione funzionale e teoria delle categorie - racconterà la sua visione sul Futuro della Programmazione in una serata ospitata dall'Associazione ConoscereLinux a Modena. A seguire: pizza e networking in compagnia di Bartosz."
