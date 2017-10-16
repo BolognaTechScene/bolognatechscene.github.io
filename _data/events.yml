@@ -327,9 +327,23 @@
   link: https://www.meetup.com/it-IT/WordPress-Meetup-Bologna/events/239899673
   description: "{{Idraulica della rete + Costruisci il tuo business con WordPress}}\n\nNuovo appuntamento del WordPress Meetup a Bologna, giovedì 29 giugno 2017 a partire dalle ore 18.15 fino alle 20.30, il luogo dell'incontro è il Working Capital #WCAP in Via Guglielmo Oberdan 22, 40136 Bologna (e con questo siamo a quota 26 :-))"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.9123341485497!2d11.343629415525335!3d44.49646307910151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4bdbf80b429%3A0xb3f86135404b9202!2sTIM+Wcap+Bologna!5e0!3m2!1sen!2sus!4v1479299502367" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: 29° WordPress Meetup
+  location: "Working Capital Bologna #WCAP, Via Guglielmo Oberdan 22, Bologna"
+  date: 2017-10-19 16:15:00
+  host: WordPress Meetup Bologna
+  link: https://www.meetup.com/it-IT/WordPress-Meetup-Bologna/events/243875850
+  description: "{{Responsive Web Design spiegato semplice}}\n\nNuovo appuntamento del WordPress Meetup a Bologna, giovedì 19 Ottobre 2017 a partire dalle ore 18.15 fino alle 20.30, il luogo dell'incontro è il Working Capital #WCAP in Via Guglielmo Oberdan 22, 40136 Bologna"
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.9123341485497!2d11.343629415525335!3d44.49646307910151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4bdbf80b429%3A0xb3f86135404b9202!2sTIM+Wcap+Bologna!5e0!3m2!1sen!2sus!4v1479299502367" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: The Kotlin Episode
+  location: "Bar Wolf Via Giuseppe Massarenti 118 Bologna"
+  date: 2017-10-21 14:00:00
+  host: Bologna Developer Zone
+  link: https://www.meetup.com/it-IT/BolognaDeveloperZone/events/244174173
+  description: "Dopo la lunga pausa estiva, riprende l'attività del nostro meetup. Questo sabato affronteremo con Marco Vasapollo, CEO della startup MetaRing (http://www.metaring.com/)ed esperto programmatore Java, nientepopodimeno che Kotlin, il linguaggio open source di JetBrains recentemente adottato da Google per lo sviluppo delle App Android."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.0958094093044!2d11.364327515963693!3d44.49270360575649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4b4b2a709cd%3A0x9a0f92bff853f8eb!2sWolf!5e0!3m2!1sen!2sus!4v1480492150907" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: NoSlidesConf 2017
   location: "Bologna"
-  date: 2017-11-25 08:30:00
+  date: 2017-11-25 07:30:00
   host: NoSlidesConf
   link: http://www.noslidesconf.net
   description: "Too many conferences sessions are entirely based on slideware full of engaging pictures and funny slogans\n\nSharing something that can only be learned by experience is way more effective when practical examples are involved!\n\nNoSlidesConf is about step-by-step technical sessions showing how to get code up and running: live changes to code and configuration applied during 45-minute live demos"
