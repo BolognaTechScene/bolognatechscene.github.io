@@ -327,6 +327,13 @@
   link: https://www.meetup.com/it-IT/WordPress-Meetup-Bologna/events/239899673
   description: "{{Idraulica della rete + Costruisci il tuo business con WordPress}}\n\nNuovo appuntamento del WordPress Meetup a Bologna, giovedì 29 giugno 2017 a partire dalle ore 18.15 fino alle 20.30, il luogo dell'incontro è il Working Capital #WCAP in Via Guglielmo Oberdan 22, 40136 Bologna (e con questo siamo a quota 26 :-))"
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.9123341485497!2d11.343629415525335!3d44.49646307910151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4bdbf80b429%3A0xb3f86135404b9202!2sTIM+Wcap+Bologna!5e0!3m2!1sen!2sus!4v1479299502367" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: HackInBo Winter Edition 2017
+  location: "Bologna"
+  date: 2017-10-14 08:30:00
+  host: HackInBo
+  link: https://www.eventbrite.it/e/biglietti-hackinbo-sicurezza-allombra-delle-torri-winter-edition-2017-36014075068
+  description: "HackInBo è il primo evento totalmente gratuito sulla Sicurezza Informatica nella città di Bologna. L'evento nasce per sopperire alla mancanza di una manifestazione di questo tipo sul territorio Bolognese. Ci sarà l’occasione per parlare e incontrare esperti del settore in un’atmosfera rilassata e collaborativa cogliendo l’occasione per rimanere aggiornati sulle ultime tematiche riguardanti l'IT-Security. L'evento è rivolto ai dirigenti d’azienda, agli it-manager, ai sistemisti, agli appassionati e a tutte quelle persone interessate ad approfondire argomenti di estrema attualità!"
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.180420692777!2d11.388674315825266!3d44.49096980587055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477e2b69f4691b8d%3A0x5755256d7430afe!2sBEST+WESTERN+PLUS+Tower+Hotel+Bologna!5e0!3m2!1sit!2sus!4v1501715611562" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - title: 29° WordPress Meetup
   location: "Working Capital Bologna #WCAP, Via Guglielmo Oberdan 22, Bologna"
   date: 2017-10-19 16:15:00
