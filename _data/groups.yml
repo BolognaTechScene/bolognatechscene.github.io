@@ -52,3 +52,9 @@
   description: "Sei uno sviluppatore di applicazioni che lavora a Bologna e dintorni? Questo gruppo è quello che fa per te! HTML5/Javascript/CSS3, Tecnologie .Net, Java, IoT e tanto altro!"
   url: https://www.meetup.com/it-IT/BolognaDeveloperZone/
   fbpage:
+- title: Functional Programming in Bologna
+  img: fpbo.png
+  category: Programmazione Funzionale
+  description: "Functional Programming in Bologna è uno spazio per discutere sulla programmazione funzionale attraverso eventi ed incontri."
+  url: https://www.facebook.com/fpInBo
+  fbpage: https://www.facebook.com/fpInBo
