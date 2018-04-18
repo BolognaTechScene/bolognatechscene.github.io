@@ -418,3 +418,10 @@
   link: http://www.incontrodevops.it
   description: "The 6th edition of Incontro DevOps Italia (IDI2018) will place in Bologna on Friday, March 9th. We are looking forward to meet you again this year!\n\nTopics will include (but not limited to) DevOps, Continuous Delivery, Cloud, Microservices, Automation, Testing, Big Data, Containers, Data Center Operating Systems, Software Operability, IT operating models and how to plan and organise IT Operations.\n\nDuring the event we will also host Lightning Talks and Open Spaces."
   gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d91065.08151591633!2d11.261474345073784!3d44.499096693817236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd498e951c40b%3A0xa2e17c015ba49441!2sBologna+BO!5e0!3m2!1sit!2sit!4v1508224143035" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+- title: An evening with... Matteo Baglini
+  location: "Bologna"
+  date: 2018-05-15 19:00:00
+  host: Functional Programming in Bologna
+  link: https://www.facebook.com/events/446594152427583/
+  description: "Onion Architecture in salsa Functional Programming.\nL'assenza dei side-effect nella programmazione funzionale pura permette di creare funzioni semplici da comprendere, comporre e testare in isolamento. Nonostante questo, senza una chiara struttura, il risultato sarà un guazzabuglio di funzioni che mescolano diversi concerns, livelli di astrazione e responsabilità."
+  gmaps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.0042325721884!2d11.335090914904221!3d44.49458007910146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fd4938961bb23%3A0x6b3760b762a33a36!2sOff+Bologna!5e0!3m2!1sit!2sit!4v1524067070406" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
